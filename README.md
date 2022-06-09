@@ -10,16 +10,17 @@
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Halfway through my Software Engeneering programme  
+- Starting my Software Engeneering programme journey
 - Taking online courses about Game development and Computer Science 
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Exercising 3 days a week
+- Practicing coding at least 4hrs a day
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lyricalke&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=code324b31&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE324B31&theme=buefy&layout=compact" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
