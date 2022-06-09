@@ -40,7 +40,7 @@
 
 <br/>
 <a href="https://github.com/CODE324B31">
-   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=code32421&show_icons=true&hide_border=true" />
+   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=code324b31&show_icons=true&hide_border=true" />
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE324B31&theme=buefy&layout=compact" />
 </a>
 
