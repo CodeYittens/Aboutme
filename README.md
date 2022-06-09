@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/CODE324B31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CODE324B31&theme=buefy&show_icons=true" />
+  <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api?username=CODE324B31&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE324B31&theme=buefy&layout=compact" />
 </a>
 
