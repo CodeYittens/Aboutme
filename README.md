@@ -8,6 +8,15 @@
 - 🎓 &nbsp; Studying Software Engeneering at ALX and Udacity.
 - 🌱 &nbsp; Currently learning software development basics.
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+#### 🌱 Things I am currently working on: 
+- Starting my Software Engeneering programme journey
+- Taking online courses about Game development and Computer Science 
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- practicing coding at least 4hrs a day
+- Exercising 3 days a week
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
