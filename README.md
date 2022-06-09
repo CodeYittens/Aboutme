@@ -41,8 +41,6 @@
 <br/>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=code32421&show_icons=true&hide_border=true" />
 <a href="https://github.com/CODE324B31">
- <img width="50%" align="right"height="180em" src="https://github-readme-stats.vercel.app/api?username=CODE324B31&theme=buefy&show_icons=true" />
- <img width="50%" align="right" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE324B31&theme=buefy&layout=compact" />
 </a>
 
 <br/>
