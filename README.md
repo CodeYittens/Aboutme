@@ -8,10 +8,6 @@
 - 🎓 &nbsp; Studying Software Engeneering at ALX and Udacity.
 - 🌱 &nbsp; Currently learning software development basics.
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-Welcome to my Github page! I am Charles and I am currently a student at ALX!  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Halfway through my Software Engeneering programme  
