@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
-<div class="tenor-gif-embed" data-postid="11570098" data-share-method="host" data-aspect-ratio="0.639535" data-width="100%"><a href="https://tenor.com/view/walking-code-computer-gif-11570098">Walking Code GIF</a>from <a href="https://tenor.com/search/walking-gifs">Walking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
 <h2> Hey there! I'm Charles.</h2>
 
