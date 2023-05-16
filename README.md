@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Engaging in the exploration of emerging technologies while acquiring the skills to create software solutions and efficient shortcuts.
 - 🎓 &nbsp; Studying Software Engeneering at ALX.
 - 🌱 &nbsp; I am currently pursuing Software Engineering at ALX.
-<img align="right" alt="img" src="https://cdn.cloudflare.steamstatic.com/steam/apps/619150/capsule_616x353.jpg?t=1681837374" width="50%" height="60%" />
+<img align="right" alt="img" src="https://discord.com/assets/e4ec7c5d7af5342f57347c9ada429fba.gif" width="50%" height="60%" />
 
 #### 🌱 Things I am currently working on: 
 - Om my Software Engeneering programme journey
