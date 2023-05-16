@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/2iAZpFihOGYAAAAC/loading-error.gif">
+<img align="right" alt="img" src="https://media.tenor.com/2iAZpFihOGYAAAAC/loading-error.gif" width="50%" height="auto" />
 <h2> Hey there! I'm Charles.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
