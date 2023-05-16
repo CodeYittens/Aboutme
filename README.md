@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">
+<img src="https://media.tenor.com/2dPUaC5FN5IAAAAd/%E0%A4%97%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BE-%E0%A4%AB%E0%A5%87%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%BE.gif">
 <h2> Hey there! I'm Charles.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
