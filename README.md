@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
+<img src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">
 <h2> Hey there! I'm Charles.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Engaging in the exploration of emerging technologies while acquiring the skills to create software solutions and efficient shortcuts.
 - 🎓 &nbsp; Studying Software Engeneering at ALX.
 - 🌱 &nbsp; I am currently pursuing Software Engineering at ALX.
-<img align="right" alt="img" src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.cloudflare.steamstatic.com/steam/apps/619150/capsule_616x353.jpg?t=1681837374" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Om my Software Engeneering programme journey
