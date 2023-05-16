@@ -1,4 +1,4 @@
-<img align="centre" alt="img" src="https://media.tenor.com/2iAZpFihOGYAAAAC/loading-error.gif" width="20%" height="auto" />
+<img align="centre" alt="img" src="https://media.tenor.com/2iAZpFihOGYAAAAC/loading-error.gif" width="10%" height="auto" />
 <h2> Hey there! I'm Charles.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -43,7 +43,7 @@
 <p align="left">
   <a href="https://www.instagram.com/I_LUVKITTENS/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:karanjacharles383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karanjacharles383@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://discord.com/https://discord.gg/EsvkHJmF" target="_blank"><img src="discord-icon.png" alt="Discord Account" width="50" height="50"></a>
+ <a href="https://discord.com/https://discord.gg/EsvkHJmF" target="_blank"><img src="https://logowik.com/content/uploads/images/discord-icon9600.logowik.com.webp" alt="Discord Account" width="50" height="50"></a>
 </p>
 
 ⭐️ From [CODEKITTENSS](https://github.com/CODEKITTENSS)
